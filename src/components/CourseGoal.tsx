@@ -1,10 +1,10 @@
-export default function CourseGoal({
-  title,
-  description,
-}: {
+// Alternatively, you can use 'interface' instead of 'type'
+type CourseGoalProps = {
   title: string;
   description: string;
-}) {
+};
+
+export default function CourseGoal({ title, description }: CourseGoalProps) {
   return (
     <article>
       <div>
