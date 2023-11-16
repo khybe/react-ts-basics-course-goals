@@ -10,7 +10,7 @@ This documentation provides a comprehensive overview of the React + TypeScript p
    git clone https://github.com/khybe/react-ts-course-goals
    ```
 
-2. ** Navigate to the Cloned Repository:**
+2. **Navigate to the Cloned Repository:**
 
    ```bash
    cd react-ts-course-goals
@@ -94,4 +94,4 @@ npm create vite@latest react-ts-basics -- --template react-ts
 
 Congratulations on successfully setting up and exploring the "Your Course Goals" project! This documentation serves as a guide to commits, features, and methods. For a more in-depth understanding, visit each file and explore the code and its comments.
 
-** Happy coding! **
+**Happy coding!**
